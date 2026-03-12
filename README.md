@@ -4,27 +4,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0001-two-sum/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0001-two-sum/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
 ## String
-|  |
-| ------- |
-| [0058-length-of-last-word](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0058-length-of-last-word) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
