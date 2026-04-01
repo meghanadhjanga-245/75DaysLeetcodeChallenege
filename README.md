@@ -96,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3451-find-invalid-ip-addresses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 <!---LeetCode Topics End-->
