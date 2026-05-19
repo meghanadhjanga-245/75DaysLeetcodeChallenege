@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0342-power-of-four) |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
+| [2235-add-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2235-add-two-integers/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
