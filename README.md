@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0874-walking-robot-simulation) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0342-power-of-four) |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0031-next-permutation/) | Medium |
+| [0202-happy-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0202-happy-number/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 | Problem Name | Difficulty |
