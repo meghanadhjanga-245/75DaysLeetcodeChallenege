@@ -136,4 +136,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
