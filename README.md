@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -129,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0191-number-of-1-bits/) | Easy |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
