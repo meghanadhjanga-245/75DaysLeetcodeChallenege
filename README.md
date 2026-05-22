@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0085-maximal-rectangle/) | Hard |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
