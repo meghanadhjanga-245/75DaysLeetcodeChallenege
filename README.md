@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0875-koko-eating-bananas) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
