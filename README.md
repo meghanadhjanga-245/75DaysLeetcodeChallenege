@@ -198,12 +198,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0226-invert-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
