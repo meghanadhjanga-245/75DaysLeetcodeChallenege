@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
 | [2235-add-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0316-remove-duplicate-letters) |
+| [0445-add-two-numbers-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
