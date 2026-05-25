@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
 | [2235-add-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0316-remove-duplicate-letters) |
+| [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0874-walking-robot-simulation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
