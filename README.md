@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0041-first-missing-positive/) | Hard |
+| [0066-plus-one](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0085-maximal-rectangle/) | Hard |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0202-happy-number/) | Easy |
