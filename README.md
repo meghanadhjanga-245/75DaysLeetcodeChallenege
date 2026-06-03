@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0046-permutations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0301-remove-invalid-parentheses) |
 ## Quickselect
 | Problem Name | Difficulty |
