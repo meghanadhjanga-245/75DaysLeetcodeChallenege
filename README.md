@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0069-sqrtx) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0222-count-complete-tree-nodes/) | Easy |
