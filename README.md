@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0029-divide-two-integers/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0206-reverse-linked-list) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0142-linked-list-cycle-ii/) | Medium |
