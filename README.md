@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0316-remove-duplicate-letters) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3689-maximum-total-subarray-value-i) |
 ## String Matching
 |  |
 | ------- |
