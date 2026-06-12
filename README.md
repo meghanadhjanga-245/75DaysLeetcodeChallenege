@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0175-combine-two-tables/) | Easy |
 | [0183-customers-who-never-order](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0511-game-play-analysis-i/) | Easy |
 | [3451-find-invalid-ip-addresses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 ## Bit Manipulation
