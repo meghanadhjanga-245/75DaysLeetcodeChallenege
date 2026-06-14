@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
