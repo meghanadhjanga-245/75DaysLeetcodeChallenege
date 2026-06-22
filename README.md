@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0383-ransom-note/) | Easy |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
