@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0496-next-greater-element-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2906-construct-product-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2906-construct-product-matrix) |
