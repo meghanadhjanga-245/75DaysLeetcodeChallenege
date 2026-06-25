@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0085-maximal-rectangle/) | Hard |
 | [0136-single-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0219-contains-duplicate-ii) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0219-contains-duplicate-ii) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0242-valid-anagram) |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
@@ -374,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3541-find-most-frequent-vowel-and-consonant) |
