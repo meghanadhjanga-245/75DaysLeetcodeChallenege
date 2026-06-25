@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0445-add-two-numbers-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1840-maximum-building-height/) | Hard |
