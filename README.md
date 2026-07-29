@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -401,9 +404,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
