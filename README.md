@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0724-find-pivot-index](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0724-find-pivot-index) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0085-maximal-rectangle/) | Hard |
 | [0279-perfect-squares](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Memoization
 |  |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -417,4 +421,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
