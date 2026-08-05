@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0301-remove-invalid-parentheses) |
+| [3310-remove-methods-from-project](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
 | ------- |
@@ -432,4 +434,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
