@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
