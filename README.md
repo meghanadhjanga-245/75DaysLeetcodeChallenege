@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3689-maximum-total-subarray-value-i) |
