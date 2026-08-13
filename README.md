@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Matrix
 |  |
 | ------- |
@@ -471,4 +474,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
