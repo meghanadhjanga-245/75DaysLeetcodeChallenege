@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1840-maximum-building-height/) | Hard |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0316-remove-duplicate-letters) |
 | [1833-maximum-ice-cream-bars](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
@@ -458,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -470,12 +475,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
