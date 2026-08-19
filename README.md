@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0875-koko-eating-bananas) |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0316-remove-duplicate-letters) |
+| [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
