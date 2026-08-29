@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3731-find-missing-elements) |
@@ -528,4 +530,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2029-stone-game-ix) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
