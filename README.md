@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1563-stone-game-v) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1927-sum-game](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1927-sum-game) |
