@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0724-find-pivot-index](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0875-koko-eating-bananas) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0085-maximal-rectangle/) | Hard |
+| [0835-image-overlap](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0835-image-overlap) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
