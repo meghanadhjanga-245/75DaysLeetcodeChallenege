@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1563-stone-game-v](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1872-stone-game-viii) |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -468,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
