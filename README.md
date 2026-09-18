@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1927-sum-game) |
