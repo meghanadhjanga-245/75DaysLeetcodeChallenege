@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3524-find-x-value-of-array-i) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2906-construct-product-matrix](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3546-equal-sum-grid-partition-i) |
@@ -606,4 +609,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
