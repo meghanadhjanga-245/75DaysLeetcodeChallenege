@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0085-maximal-rectangle/) | Hard |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0115-distinct-subsequences) |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/main/0046-permutations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -609,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/meghanadhjanga-245/75DaysLeetcodeChallenege/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
